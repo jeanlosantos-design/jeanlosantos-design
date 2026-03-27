@@ -38,7 +38,7 @@ Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contr
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
-📌 Projeto 1 – [site-3]  
+📌 Projeto 1 – [(https://jeanlosantos-design.github.io/site-3/)]  
 📌 Projeto 2 – [Nome do Projeto]  
 📌 Projeto 3 – [Nome do Projeto]  
 
