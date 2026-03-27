@@ -2,7 +2,7 @@
 
 🎓 Estudante da Aprendizagem Industrial em conceitos de programação,contratado pela Jbs.
 
-🎓 Estudo no 1° ano da escola Eeb Gov Bornhausen.
+🎓 Estudo no 1° ano do ensino médio da escola Eeb Gov Bornhausen.
  
 🎓 Cursado em Aprendizagem Industrial  de mecânica industrial em 2025,Pelo Grupo Farenzena.
 
